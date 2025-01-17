@@ -1,6 +1,5 @@
 # Improved-Prostate-Tumor-Segmentation-Using-Self-Attention-Mechanism-and-SAM-Model
 
-> *"Storing all the images paths in images"*
 
 ## Features
 
